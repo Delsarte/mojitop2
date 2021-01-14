@@ -1,1 +1,2 @@
-# mojitop2
+# Mojito
+Recette pour deux personnes
